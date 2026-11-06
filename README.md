@@ -1,7 +1,7 @@
-<!-- Header banner -->
+
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:2563eb&amp;height=200&amp;section=header&amp;text=John%20Lawrence%20Oliveros&amp;fontColor=ffffff&amp;fontSize=40&amp;fontAlignY=36&amp;desc=Agentic%20AI%20%26%20Automation%20Specialist&amp;descAlignY=58&amp;descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:2563eb&amp;height=200&amp;section=header&amp;text=John%20Lawrence%20Oliveros&amp;fontColor=ffffff&amp;fontSize=40&amp;fontAlignY=36&amp;desc=Agentic%20AI%20%26amp%3B%20Automation%20Specialist&amp;descAlignY=58&amp;descSize=18" alt="header" />
 </p>
 
 <p align="center">
