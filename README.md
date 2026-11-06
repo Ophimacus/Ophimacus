@@ -201,20 +201,20 @@ SOP writing · tool directory management · decision boards · PI-style profilin
 ### 📈 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ophimacus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ophimacus&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ophimacus&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;v=3" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ophimacus&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;v=3" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ophimacus&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ophimacus&amp;theme=tokyonight&amp;hide_border=true" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ophimacus&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ophimacus&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;v=3" alt="Activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ophimacus&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ophimacus&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10&amp;row=1&amp;v=3" alt="Trophies" />
 </p>
 
 <!-- 3D contribution calendar (generated daily by .github/workflows/profile-3d.yml) -->
