@@ -22,7 +22,7 @@
 ### 👋 About me
 
 - 🤖 I build **AI agents and automations** that take repetitive work off people's plates
-- 🏢 AI Tools Developer at a Bay Area real-estate company (remote, since June 2026)
+- 🏢 SEO Specialist / Web Developer at Equity Track Inc. Philippines, supporting a Bay Area real-estate company (since June 2026)
 - 🎓 BS Information Technology graduate, Camarines Sur Polytechnic Colleges (2026)
 - 🎨 Also an IT specialist, graphic designer and video editor
 - 📄 I document everything: every tool I ship comes with an SOP so a team can run it without me
@@ -48,10 +48,10 @@
 
 <table>
   <tr>
-    <td align="center"><h2>142</h2>AI artifacts backed up daily</td>
-    <td align="center"><h2>10,076</h2>data records protected</td>
-    <td align="center"><h2>97–98</h2>/100 first-try QA on AI graphics</td>
-    <td align="center"><h2>18</h2>operating SOPs written</td>
+    <td align="center"><h2>100+</h2>AI tools backed up daily</td>
+    <td align="center"><h2>2×</h2>daily automated reminders</td>
+    <td align="center"><h2>90/100</h2>QA bar before anything publishes</td>
+    <td align="center"><h2>15+</h2>operating SOPs written</td>
   </tr>
 </table>
 
@@ -64,7 +64,7 @@
     <td width="50%" valign="top">
       <h4>🧠 Agentic SEO Content System</h4>
       7-stage, quality-gated pipeline run by Claude agents: research → outline → draft → 100-point QA → published HTML → assets → monthly Semrush report.<br/><br/>
-      <b>Result:</b> 6 articles published under a 90/100 QA bar.<br/><br/>
+      <b>Result:</b> every article passes a 90/100 QA bar before publishing.<br/><br/>
       <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
       <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
       <img src="https://img.shields.io/badge/Semrush-FF642D?style=flat-square&logo=semrush&logoColor=white" />
@@ -72,7 +72,7 @@
     <td width="50%" valign="top">
       <h4>📲 Construction Video Reminder Automation</h4>
       Deputy scheduling → twice-daily WhatsApp reminders → Google Chat reports, with duplicate-send protection and outage monitoring. Built with Codex.<br/><br/>
-      <b>Result:</b> live since Oct 2026; migrated servers with 38 passing tests.<br/><br/>
+      <b>Result:</b> live since Oct 2026; moved servers with zero data loss.<br/><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
@@ -82,7 +82,7 @@
     <td width="50%" valign="top">
       <h4>🗄️ AI Artifact Backup & Live Directory</h4>
       Scheduled Claude Code routines back up every company AI artifact to GitHub daily; GitHub Actions keep the Monday.com tools board current.<br/><br/>
-      <b>Result:</b> 61 → 142 artifacts, 2,633 files, 10,076 records.<br/><br/>
+      <b>Result:</b> 100+ AI tools and their data backed up daily.<br/><br/>
       <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
     </td>
