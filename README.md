@@ -200,21 +200,28 @@ SOP writing · tool directory management · decision boards · PI-style profilin
 
 ### 📈 GitHub activity
 
+<!-- Unified Stats, Languages, Trophies, and Activity (Generated via Action) -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ophimacus&show_icons=true&theme=tokyonight&hide_border=true&v=5" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ophimacus&layout=compact&theme=tokyonight&hide_border=true&v=5" alt="Top languages" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
+<!-- GitHub Streak (Kept because Demolab hosting remains stable) -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ophimacus&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
+<!-- 3D contribution calendar (generated daily by .github/workflows/profile-3d.yml) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ophimacus&theme=tokyo-night&hide_border=true&area=true&v=5" alt="Activity graph" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
 </p>
 
+<!-- Contribution snake (generated daily by .github/workflows/snake.yml) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ophimacus&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&v=5" alt="Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ophimacus/Ophimacus/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ophimacus/Ophimacus/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Ophimacus/Ophimacus/output/github-snake.svg" />
+  </picture>
 </p>
 
 <!-- 3D contribution calendar (generated daily by .github/workflows/profile-3d.yml) -->
