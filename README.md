@@ -44,7 +44,7 @@
 
 ---
 
-### 📊 Proven results
+📊 Proven results
 
 <table>
   <tr>
